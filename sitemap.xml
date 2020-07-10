@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xml" href="//ushare.codemenindia.com/sitemap.xml"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://ushare.codemenindia.com/</loc>
+        <lastmod>2020-07-10T10:39:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://ushare.codemenindia.com/ushare.png</image:loc>
+			<image:title><![CDATA[ushare]]></image:title>
+			<image:caption><![CDATA[ushare]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://ushare.codemenindia.com/ushare/</loc>
+		<lastmod>2020-07-10T12:23:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://ushare.codemenindia.com/ushare.png</image:loc>
+			<image:title><![CDATA[ushare]]></image:title>
+			<image:caption><![CDATA[ushare]]></image:caption>
+		</image:image>
+	</url>
+</urlset>
